@@ -2,6 +2,11 @@
   {
     "package": "bmm",
     "url": "https://github.com/venpopov/bmm",
-    "branch": "master"
+    "branch": "*release"
+  },
+  {
+    "package": "bmm",
+    "url": "https://github.com/venpopov/chkptstanr",
+    "branch": "*release"
   }
 ]
