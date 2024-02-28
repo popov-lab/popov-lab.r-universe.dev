@@ -8,5 +8,10 @@
     "package": "chkptstanr",
     "url": "https://github.com/venpopov/chkptstanr",
     "branch": "v0.2.0"
+  },
+  {
+    "package": "Vmisc",
+    "url": "https://github.com/venpopov/Vmisc",
+    "branch": "master"
   }
 ]
