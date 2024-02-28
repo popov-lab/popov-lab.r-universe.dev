@@ -1,6 +1,6 @@
 df <- data.frame(
-    package = c("bmm","chkptstanr"),
-    url = c("https://github.com/venpopov/bmm", "https://github.com/venpopov/chkptstanr"),
-    branch = c("*release","*release")
+    package = c("bmm"),
+    url = c("https://github.com/venpopov/bmm"),
+    branch = c("*release")
 )
 jsonlite::write_json(df, 'packages.json', pretty = TRUE)
